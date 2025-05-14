@@ -49,8 +49,8 @@ data/
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/skin-cancer-detection.git
-cd skin-cancer-detection
+git clone https://github.com/becknadir/skin_cancer_detector.git
+cd skin_cancer_detector
 ```
 
 2. Install the required dependencies:
