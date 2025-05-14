@@ -1,3 +1,5 @@
+![mole](https://github.com/user-attachments/assets/7f847a72-2374-4d6a-a276-4791be19f662)
+
 # Skin Cancer Detection
 
 This repository contains a machine learning model for detecting skin cancer from images.
